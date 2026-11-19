@@ -24,7 +24,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "lodash": "^4.17.23",
-    "nanoid": "^3.3.11"
+    "lodash": "^4.18.1",
+    "nanoid": "^3.3.18"
   }
 }
